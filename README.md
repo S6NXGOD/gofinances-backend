@@ -14,9 +14,6 @@
   <a href="#computer-iniciando-front-end">ReactJS</a>
 </p>
 
-<h1 align="center">
-    <img alt="GoBarber" src="https://res.cloudinary.com/matheuspires/image/upload/v1587663201/gofinances_m4poam.gif" />
-</h1>
 
 ## :page_with_curl: Sobre
 Este repositório contém um API REST em Node.js como back-end, uma aplicação em ReactJS como front-end utilizando TypeScript.
@@ -35,10 +32,10 @@ Essa é a aplicação GoFinances, de gestão de transações no qual o usuário 
 ## :rocket: Começando
 ``` bash
   # Clonar o projeto:
-  $ git clone https://github.com/MatheusPires99/gofinances.git
+  $ git clone https://github.com/S6NXGOD/gofinances-backend.git
 
   # Entrar no diretório:
-  $ cd gofinances
+  $ cd gofinances-backend
 ```
 
 ## :gear: Iniciando back-end
@@ -55,24 +52,6 @@ Essa é a aplicação GoFinances, de gestão de transações no qual o usuário 
   # Rodar a aplicação:
   $ npm run dev:server
 ```
-
-## :computer: Iniciando front-end
-```bash
-  # Entrar no diretório do back-end:
-  $ cd frontend
-
-  # Instalar as dependências:
-  $ npm
-
-  # Rodar a aplicação:
-  $ npm start
-```
-## ⛏️ Construído utilizando <a name = "built_using"></a>
-
-- [Typescript](https://www.typescriptlang.org/)
-- [ReactJS](https://reactjs.org/)
-- [React Router](https://github.com/ReactTraining/react-router)
-- Axios
 
 ## ✍️ Authors <a name = "authors"></a>
 
